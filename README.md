@@ -10,7 +10,7 @@ written for peer assessment as part of the Coursera course on
 Developing Data Products.
 
 Click **[here for ui.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R)** 
-and **[here for server.R]((https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R)** code.
+and **[here for server.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/server.R)** code.
 
 The application is a visual invitation to slide the slider and 
 click on the checkboxes, and then to see how the dendrogram and clusters of cars change.  For those 
