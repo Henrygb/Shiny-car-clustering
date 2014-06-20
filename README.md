@@ -5,12 +5,12 @@ Example of Shiny application clustering mtcars
 ----------------------------------------------
 
 This repository provides the code for the Shiny application 
-[https://henrygb.shinyapps.io/car_cluster/](https://henrygb.shinyapps.io/car_cluster/) 
-written for peer assessment as part of the Coursera course on  
+**[https://henrygb.shinyapps.io/car_cluster/](https://henrygb.shinyapps.io/car_cluster/)** 
+written for peer assessment as part of the Coursera course on 
 Developing Data Products.
 
-Click [here for ui.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R) 
-and [here for server.R] code.
+Click **[here for ui.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R)** 
+and **[here for server.R]((https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R)** code.
 
 The application is a visual invitation to slide the slider and 
 click on the checkboxes, and then to see how the dendrogram and clusters of cars change.  For those 
@@ -22,9 +22,9 @@ The script server.R changes the clustering calcultions by reacting when the chec
 are changed and reploting the new fitted clusters. 
 
 It also recalculates and redisplays the average distances between cars
-using the selected standardised variables  
+using the selected standardised variables 
 (equal to the average heights of the branches) 
-in the title of the plot on the html page.  
+in the title of the plot on the html page. 
 This varies depending on the particular checkboxes selected and the number which are selected. 
 
       
