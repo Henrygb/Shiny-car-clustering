@@ -12,7 +12,7 @@ Developing Data Products.
 Click **[here for ui.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R)** 
 and **[here for server.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/server.R)** code.
 
-**Becaue the shinyapps.io have become sporadically unavailable after the peer-assessment time started, 
+**Because the shinyapps.io site has become sporadically unavailable after the peer-assessment time started, 
 I have since added screengrab images below showing what the application shows whan the website is working, 
 with different positions of the slider and different checkboxes checked.**  
 
@@ -30,11 +30,6 @@ using the selected standardised variables
 (equal to the average heights of the branches) 
 in the title of the plot on the html page. 
 This varies depending on the particular checkboxes selected and the number which are selected. 
-
-Initial screen
---------------
-
-![plot of chunk unnamed-chunk-3](figures/unnamed-chunk-3.png) 
 
 Initial screen
 --------------
@@ -66,7 +61,7 @@ No variables
 
 ![plot of No_variables](figures/No_variables.png) 
 
-One_variable
+One variable
 --------------
 
 ![plot of One_variable](figures/One_variable.png) 
