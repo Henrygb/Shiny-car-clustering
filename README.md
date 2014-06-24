@@ -12,6 +12,10 @@ Developing Data Products.
 Click **[here for ui.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/ui.R)** 
 and **[here for server.R](https://github.com/Henrygb/Shiny-car-clustering/blob/master/car_cluster/server.R)** code.
 
+**Becaue the shinyapps.io have become sporadically unavailable after the peer-assessment time started, 
+I have since added screengrab images below showing what the application shows whan the website is working, 
+with different positions of the slider and different checkboxes checked.**  
+
 The application is a visual invitation to slide the slider and 
 click on the checkboxes, and then to see how the dendrogram and clusters of cars change.  For those 
 who prefer to read more, it says *"Note: This Shiny app runs Ward hierarchical clustering 
@@ -27,4 +31,44 @@ using the selected standardised variables
 in the title of the plot on the html page. 
 This varies depending on the particular checkboxes selected and the number which are selected. 
 
-      
+Initial screen
+--------------
+
+![plot of chunk unnamed-chunk-3](figures/unnamed-chunk-3.png) 
+
+Initial screen
+--------------
+
+![plot of Initial_screen](figures/Initial_screen.png) 
+
+Fewer clusters
+--------------
+
+![plot of Fewer_clusters](figures/Fewer_clusters.png) 
+
+More clusters
+--------------
+
+![plot of More_clusters](figures/More_clusters.png) 
+
+More variables
+--------------
+
+![plot of More_variables](figures/More_variables.png) 
+
+All variables
+--------------
+
+![plot of All_variables](figures/All_variables.png) 
+
+No variables
+--------------
+
+![plot of No_variables](figures/No_variables.png) 
+
+One_variable
+--------------
+
+![plot of One_variable](figures/One_variable.png) 
+
+ 
